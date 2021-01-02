@@ -18,11 +18,10 @@ STP를 이해하기전 알아야할 2가지 개념
 
 >>브리지 ID 를 생성 하는방법
 
-|-(Bridge Priorty)-|
+|-(Bridge Priorty)-|-(Mac Address)-)
 
-(|------16bit------|
-
+(-------16bit------|-----32bit-----)
  
-- Path Cost
+- Path Costs
 
 
