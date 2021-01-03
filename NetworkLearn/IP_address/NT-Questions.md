@@ -30,3 +30,5 @@
 
 What is BID ?
 (Bridge ID) -끗-
+
+Whati is Sender BID
