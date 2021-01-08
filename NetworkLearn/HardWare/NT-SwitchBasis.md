@@ -37,9 +37,9 @@
   - 포트상태 LED
 
 | Port Mode LED | Port Status LED | Port Status LED Mean |
-|---|---:|:---|
-| <br>STAT<br>(Port Status) | OFF<br>Green<br>Blink green<br>Blink orange & green<br>Orange(yellow) | 링크 연결이 안됨<br>링크 연결됨 <br>링크가 살아있고 데이터 송수신중<br>링크에러 발생<br>포트 비활성화 or Blocking 상태 |
-| <br><br>UTIL<br>(Utilization) | Green<br><br>Orange(yellow)<br><br>Blink Green & Orange | 현재 스위치의 백본 사용률<br><br>스위치가 켜진후 지금까지 최대 백본 사용률 도달<br><br>만약 스위치의 LED가 모두 초록색이고 주황색이 하나도 없으면 사용률이 50%를 넘었다는 뜻이고, 가장 오른쪽 LED 가 꺼져 있으면 스위치 사용률이 20~25% 사이라는 것이고, 가장 왼쪽 LED 하나만 초록색일 경우 스우치는 전체 용량의 0.0488%만을 사용하고 있다는 것이다. |
-| DUPLX<br>(Duplx) | OFF<br>Green |  |
-|  |  |  |
-|  |  |  |
+|-|-|-|
+| <br>STAT<br>(Port Status) | OFF<br><br>Green<br><br>Blink green<br><br>Blink orange and green<br><br>Orange(yellow) | 링크 연결이 안됨<br><br>링크 연결됨 <br><br>링크가 살아있고 데이터 송수신중<br><br>링크에러 발생<br><br>포트 비활성화 or Blocking 상태 |
+| <br><br>UTIL<br>(Utilization) | Green<br><br>Orange(yellow)<br><br><br>Blink Green & Orange | 현재 스위치의 백본 사용률<br><br>스위치가 켜진후 지금까지 최대 백본 사용률 도달<br><br>만약 스위치의 LED가 모두 초록색이고 주황색이 하나도 없으면 사용률이 50%를 넘었다는 뜻이고, <br>가장 오른쪽 LED 가 꺼져 있으면 스위치 사용률이 20~25% 사이라는 것이고, <br>가장 왼쪽 LED 하나만 초록색일 경우 스우치는 전체 용량의 0.0488%만을 사용하고 있다는 것이다. |
+| DUPLX<br>(Duplx) | OFF<br>Green | 포트는 Half Duplex 모드로 동작하고 		<br>포트는 Full Duplex 모드로 동작하고 있다 |
+| SPEED<br>(Port Speed)<br>10/100 port | OFF<br><br>GREEN | 10Mbps<br><br>100Mbps |
+| SPEED<br>(Port Speed)<br>10/100/1000 port | OFF<br>GREEN<br>BLINK GREEN | 10Mbps<br>100Mbps<br>1000Mbps(1Gbps) |
