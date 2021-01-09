@@ -29,6 +29,6 @@
     Layer 3 Network : IP
 
     Layer 2 DataLink : Ethernet
-    
+
     Layer 1 Physical : 전기신호 처리
 
