@@ -13,3 +13,7 @@
     switch# 에서 Switch#(config)# 으로 바뀜
 - exit 명령을 사용하여 한 단계씩 빠져나옴
 - Switch#(프리빌리지 모드)  에서 show interface vlan 1을 입력하면 현재 vlan 1에 해당된 Ip 주소를 알수 있다.
+  IP주소는 vlan 인터페이스 모드에서 디폴트 게이트웨이는 일반 구성모드에서 세팅 
+  
+  show interface 명령 - 인테페이스 의 대한 구성을 볼때
+ -
