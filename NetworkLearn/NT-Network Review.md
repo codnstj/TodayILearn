@@ -19,9 +19,16 @@
 - **OSI 7Layer** : 데이터 생성과 전송 과정을 7계층으로 제시한 모댈
 
     Layer 7 Application(응용 계층)
+
     Layer 6 Presentation(표현 계층)
+
     Layer 5 Session(세션 계층)
+
     Layer 4 TransPort(전송 계층) : Tcp/Udp
+
     Layer 3 Network : IP
+
     Layer 2 DataLink : Ethernet
+    
     Layer 1 Physical : 전기신호 처리
+
