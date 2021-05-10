@@ -39,3 +39,6 @@ _전체 설정모드 들어가기_
   Enter configuration commands, one pre line. End with  CNTRL/Z.
   Switch(Config)#
   ```
+<Strong>5/9</Strong> <hr>
+
+
