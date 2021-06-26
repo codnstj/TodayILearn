@@ -12,6 +12,7 @@
   - I/O 정보 : 장치를 포함한 open 된 파일들
 ## Process 의 Status & "Justice"
 <img src="../images/4.png">
+  
   - new 상태 : 프로세스가 이제 막 만들어진 상태 , 메모리에 올라가기 전의 상태이다.
   - ready 상태 : 프로세스가 메모리로 올라간 상태. CPU 에 올라가기 전 상태이다.
   - running 상태 : `ready` 상태에서 dispatch(스케줄 이라고도 한다) 가 되어 CPU 를 할당받아 실제 수행되고 있는 상태를 말한다. 그런데 프로세스 하나가 CPU 를 독점하는것을 방지하기 위해 timeout을 시켜 강제로 다시 `ready` 로 돌아가게 할수도 있다.
