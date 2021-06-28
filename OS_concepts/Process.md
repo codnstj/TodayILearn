@@ -60,3 +60,64 @@
   - exec() : 코드와 static data를 Load 및 덮어쓰기 를 하고, stack 과 heap 을 초기화 하고 실행합니다. 사용자가 원하는 프로그램을 실행시킬 수 있습니다.
   - exec 과 fork 를 분리한 이유 : 자식 프로세스 가 끝나기 전 무언가를 하고 싶을 수 있기 때문에 
   - getpid() : pid 를 획득
+
+## Time sharing 
+
+프로세서들이 자원을 공유할수 있도록 하는 시스템. CPU 를 시간을 작게 분할해 여러 작업을 돌아가면서 수행하는것. CPU 를 가샇와하는 핵심 테크닉.
+
+
+### Issues
+  - 성능 : 가상화 오버헤드를 어떻게 최소화 시킬것인가?
+  - 제어 : 중간에 인터럽트가 발생할 때마다 OS는 어떻게 제어할 것인가?
+
+### Solution
+
+  **Direct Execution**
+
+  운영체제를 거치지 않고 직접 수행, 효율적이지만 **컨트롤 할수 없다. 즉, 프로세스는 무한히 돌것이고, 자원을 독점해 버릴 것입니다.
+
+  > 이와 반대되는 개념으로 , ***indirect execution*** 이 있습니다.
+
+  `Direct Execution` 의 절차 
+
+1. OS 에서 프로세스 리스트에 엔트리를 생성
+2. OS 에서 프로그램 메모리 할당
+3. OS 에서 메모리로 로드
+4. OS 에서 argc/argv 를 사용해서 스택 설정
+5. 프로그램에서 main 문 실행 
+6. OS 에서 프로세스 메모리 헤제 및 프로세스 리스트에서 제거
+
+**Direct Execution Solution**
+
+Direct Execution 의 단점을 해결할 두 가지 해결방안이 있다.
+
+1. 자원과 관련된 요청이 오면 OS가 개입한다.(system call 을 통해)
+2. 유저모드 와 커널모드를 구분한다. 모드를 변경할떄 `trap` 명령을 사용한다.
+
+**trap**
+
+trap은 `trap table(a.k.a IDT , Interrupt Descriptor Table )` 을 사용해서 발생시킵니다.
+`trap table` 은 `trap handler` 들로 구성이 됩니다.  `trap handler` 엔 system call handlere, div_dy_zero handler,segment fault handler 등이 있습니다. 부팅 시간에 초기화 됩니다.
+
+예를 들어, system call 의 처리 절차는 다음과 같습니다.
+
+1. 프로그램(유저모드) 에서 system call trap 을 호출합니다.
+2. 하드웨어 단에서 kernel stack에 register 값들을 저장하고, 커널 모드로 이동하고, trap handler로 점프합니다.
+3. OS 단(커널 모드)에서 trap 을 제어하고, system call 을 수행한뒤 다시 뒤돌아 갑니다.
+
+**또 다른 OS 개입 방법 - Timer interrupt and Context switch**
+
+프로세스 가 변경될 때마다 OS가 개입해야하는데, 두가지 방법이 있습니다.
+
+- 협력적인 방법 : system call 을 발생시킵니다.
+- 비협력적인 방법
+  - timer interrupt 사용. 사람의 심장처럼 주기적으로 timer interrupt 를 발생시키고 필요 시 스케줄링 을 진행합니다.
+  - `Context switch(문맥 교환)` : Context 저장 과 복구
+  - `Context switch` 의 흐름 : process A 실행 -> Process B 도입 : A의 context 를 저장하고 B의 context 를 올림 -> B 종료 -> B의 context를 저장하고 저장했었던 A의 Context 를 다시 로드.
+
+**Context switch**
+
+context switch  (문맥 교환) 은 선정 되었을 떄 프로세스 의 마지막 상태를 기억합니다.
+-  Context save : 메모리에 이쓴ㄴ PCB 에 CPU
+-  Context restore : CPU register 들에 PCB 를 로딩하는 것을 말합니다.
+-  Switching 하는 동안은 우용한 일을 못하는 overhead 가 발생합니다.
