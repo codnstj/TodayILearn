@@ -13,7 +13,7 @@
 ## Process API
 프로그램은 어떻게 실행되는가 
   1. Load 합니다. : 주소공간에 코드와 static data 를 넣는다.
-  2. 동적 할당 합니다 . : stack , 파라미터 초기화 , 필요하면 Heap을 사용합니다.
+  2. 동적 할당 합니다. : stack , 파라미터 초기화 , 필요하면 Heap을 사용합니다.
   3. 초기화
   4. entry point 점프
 ## Process 의 Status & "Justice"
