@@ -1,4 +1,4 @@
-
+# 맥에서 도커를 사용해서 오라클을 사용해보자
 ### 크롬에서 도커,DataGrip 설치
 - 설치후 터미널 가서 명령어 입력
 ```
@@ -12,9 +12,9 @@ docker exec -it oracle11g-test sqlplus
 
 > 데이터 그립 실행후 
 
-<img src="./images/1.png">
-오라클 사용
-<img src="./images/2.png">
+![1.png](../images/1.png)오라클 사용
+
+![2.png](../images/2.png)
 사용자 아이디 : system
 
 비밀번호 : oracle
