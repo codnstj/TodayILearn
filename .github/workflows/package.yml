@@ -1,0 +1,33 @@
+name: Build README
+on:
+  push:
+    branches:
+    - master
+    paths-ignore:
+    - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        # necessary for github-action-til-autoformat-readme
+        fetch-depth: 0
+    - name: Autoformat README
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
+      with:
+        description: |
+          # Today I Learn
+
+          **규칙!**
+
+          > 1.  하루의 공부량을 거짓되게 적지 않는다.
+          > 2.  파일 형식은 mdLearn.md 를 참고하여 md 파일을 작성한다.
+          > 3.  md 파일 을 작성할떄 필요시 링크를 첨부한다.
+          > 4.  **열심히 매우 열심히 한다.!**
+
+        footer: |
+          > 2020 12/22 부터 시작함.
+        list_most_recent: 2 # optional, lists most recent TILS below description
+        date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
