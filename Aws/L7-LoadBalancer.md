@@ -1,4 +1,4 @@
-## L7-Load-Balancing
+# L7-Load-Balancing
 
 - 7계층에서 작동하는 로드밸런서 이다.
 - Application LoadBalancer 라고 불리운다.
