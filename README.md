@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_65 TILs and counting..._
+_64 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [네트워크 복습 2](NetworkLearn/NT-Network-Review-2.md) - Sat May 14 00:54:26 2022 +0900
-- [네트워크 용어정리](NetworkLearn/network.md) - Sat May 14 00:54:26 2022 +0900
+- [](OS_concepts/osconcepts.md) - Sat May 14 00:57:36 2022 +0900
+- [OSI 7 LAYER](NetworkLearn/osi.md) - Sat May 14 00:57:36 2022 +0900
 
 ### Categories
 
@@ -46,11 +46,11 @@ _65 TILs and counting..._
 - [test 문제](Aws/test.md)
 
 ### [Django](#Django)
-- [# MVC 패턴이란?](Django/MVC-MVT.md)
+- [MVC 패턴이란?](Django/MVC-MVT.md)
 
 ### [Effective_Python](#Effective_Python)
-- [# Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
-- [# PEP 8 스타일 가이드를 따르자 !](Effective_Python/Pep8Style.md)
+- [Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
+- [PEP 8 스타일 가이드를 따르자 !](Effective_Python/Pep8Style.md)
 
 ### [JS](#JS)
 - [Closure](JS/closure.md)
@@ -77,7 +77,6 @@ _65 TILs and counting..._
 - [허브 2](NetworkLearn/0217.md)
 - [브리지](NetworkLearn/0218.md)
 - [기능반 네트워크 구성도 , Looping 정의](NetworkLearn/0219.md)
-- [Zoom _4,5,6,7,8](NetworkLearn/0223.md)
 - [Raid system](NetworkLearn/0302.md)
 - [카탈리스트 스위치 구성](NetworkLearn/Catalist-Config.md)
 - [스위치 기본](NetworkLearn/Catalist-SwitchBasis.md)
@@ -101,13 +100,13 @@ _65 TILs and counting..._
 - [서브넷 마스크 의 기본 성질](NetworkLearn/NT-SubnetMaskBasis.md)
 - [VLAN](NetworkLearn/NT-VLAN.md)
 - [네트워크 기초 12/23](NetworkLearn/NetworkBasics.md)
-- [OSI 7 LAYER](NetworkLearn/OSI7LAYER .md)
 - [동기/비동기](NetworkLearn/SynchroonousAsynchronous.md)
 - [네트워크 용어정리](NetworkLearn/network.md)
+- [OSI 7 LAYER](NetworkLearn/osi.md)
 
 ### [OS_concepts](#OS_concepts)
 - [Process](OS_concepts/Process.md)
-- [](OS_concepts/os_.md)
+- [](OS_concepts/osconcepts.md)
 
 > 2020 12/22 부터 시작함.
 
