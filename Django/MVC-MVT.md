@@ -1,4 +1,4 @@
-## MVC 패턴이란?
+# MVC 패턴이란?
 
 **_Model-View-Controller_**
 
