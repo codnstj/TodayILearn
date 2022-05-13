@@ -49,7 +49,7 @@ Path Costs 를 직역 하자면 "길을 가는데 드는 비용" 입니다. 네�
 
 >>Path Cost 계산
 
-![ex_screenshot](../image/PathcostsCalc.jpg)
+![ex_screenshot](/images/PathcostsCalc.jpg)
 
 사진 처럼 S/W A 에서 S/W C 의 cost 는 19 입니다.
 S/W C 에서 S/W D 의 cost 는 19 입니다.

@@ -3,7 +3,8 @@
 - 브리지 ID (BID)
   - 브리지나 스위치 들이 통신할 떄 서로를 확인 하기 위해 하나씩 가지고 있는 번호이다.
   - Bridge Priorty (브리지 우선순위)16bit , Mac 주소 48bit 로 구성되어있다.
-    <img src="./image/a%20(1).png">
+    ![ex_screenshot](/images/a%20(1).png)
+
     [Bridge Priorty(브리지 우선순위)]
   - 16bit이므로  0 ~ 2의16승 - 1 (0~65535) 디폴트 값으로 그 중간값인 32768 을 사용한다.
   - Priorty 는 낮은 값이 더 높은 우선순위임
@@ -20,10 +21,10 @@
       
     Path Cost = 1000Mbps / 10Gbps
     = 1000Mbps / 10000Mbps = 0.1 -----> 소수점이라 불편 ㅠㅠ
-    <img src="./image/c.png">
+![ex_screenshot](/images/d.png)
 
 - 스패닝 트리 프로토콜 
-  <img src ="./image/e.png">
+![ex_screenshot](/images/e.png)
   규칙 
   
   1. 네트워크 당 하나의 루트 브리지를 갖음
@@ -46,7 +47,7 @@
   
   * **루트브리지 정하기**
     - 무조건 낮은 BID 를 갖는 브리지가 루트브리지임
-    <img  src="./image/f.png">
+![ex_screenshot](/images/f.png)
     1. 스위치 B, 스위치 C, 가 부팅됨
     브리지가 맨 처음 부팅하고 나서 내보내는 BPDU 에는 Sender BID 의 정보 + 자기 자신의 BID 를 넣음 루트브리지의 BIUD 에는 자신의 BID 를 넣음
     이제 막 부팅 해서 BPDU 를 한번도 못받았기 때문에 혼자 네트워크 에 있다고 생각
