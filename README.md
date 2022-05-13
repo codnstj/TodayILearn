@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_64 TILs and counting..._
+_65 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [OSI 7 LAYER](NetworkLearn/concept7layer.md) - Sat May 14 01:00:21 2022 +0900
-- [](OS_concepts/concepts.md) - Sat May 14 01:00:21 2022 +0900
+- [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md) - Sat May 14 01:03:53 2022 +0900
+- [운영체제의 정의 와 구조](OS_concepts/concepts.md) - Sat May 14 01:00:21 2022 +0900
 
 ### Categories
 
@@ -42,6 +42,7 @@ _64 TILs and counting..._
 - [GitOps 란?](Aws/GitOps.md)
 - [L4 로드밸런싱](Aws/L4-LoadBalancer.md)
 - [L7-Load-Balancing](Aws/L7-LoadBalancer.md)
+- [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
 - [test 문제](Aws/test.md)
 
@@ -106,7 +107,7 @@ _64 TILs and counting..._
 
 ### [OS_concepts](#OS_concepts)
 - [Process](OS_concepts/Process.md)
-- [](OS_concepts/concepts.md)
+- [운영체제의 정의 와 구조](OS_concepts/concepts.md)
 
 > 2020 12/22 부터 시작함.
 
