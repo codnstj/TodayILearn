@@ -17,8 +17,8 @@ _64 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [](OS_concepts/osconcepts.md) - Sat May 14 00:57:36 2022 +0900
-- [OSI 7 LAYER](NetworkLearn/osi.md) - Sat May 14 00:57:36 2022 +0900
+- [OSI 7 LAYER](NetworkLearn/concept7layer.md) - Sat May 14 01:00:21 2022 +0900
+- [](OS_concepts/concepts.md) - Sat May 14 01:00:21 2022 +0900
 
 ### Categories
 
@@ -101,12 +101,12 @@ _64 TILs and counting..._
 - [VLAN](NetworkLearn/NT-VLAN.md)
 - [네트워크 기초 12/23](NetworkLearn/NetworkBasics.md)
 - [동기/비동기](NetworkLearn/SynchroonousAsynchronous.md)
+- [OSI 7 LAYER](NetworkLearn/concept7layer.md)
 - [네트워크 용어정리](NetworkLearn/network.md)
-- [OSI 7 LAYER](NetworkLearn/osi.md)
 
 ### [OS_concepts](#OS_concepts)
 - [Process](OS_concepts/Process.md)
-- [](OS_concepts/osconcepts.md)
+- [](OS_concepts/concepts.md)
 
 > 2020 12/22 부터 시작함.
 
