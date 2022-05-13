@@ -14,20 +14,7 @@
 ---
 ### [Django](./Django/MVC%20%26%20MVT.md)
 ### [JS](./JS/closure.md)
-### NetworkLearn
-- [image](./NetworkLearn/image/d.png)
-- [image](./NetworkLearn/image/PathcostsCalc.jpg)
-- [image](./NetworkLearn/image/e.png)
-- [image](./NetworkLearn/image/screenshot.jpg)
-- [image](./NetworkLearn/image/c.png)
-- [image](./NetworkLearn/image/a.png)
-- [image](./NetworkLearn/image/Netwokimg.jpeg)
-- [image](./NetworkLearn/image/a%20%281%29.png)
-- [image](./NetworkLearn/image/f.png)
-
-- [필기](./NetworkLearn/%ED%95%84%EA%B8%B0/Notes_210115_173546_2.jpg)
-- [필기](./NetworkLearn/%ED%95%84%EA%B8%B0/Notes_210115_173546_1.jpg)
-
-### Python
-- [Effective_Python](./Python/Effective_Python/Pep8Style.md)
+### images
+- [필기](./images/%ED%95%84%EA%B8%B0/Notes_210115_173546_2.jpg)
+- [필기](./images/%ED%95%84%EA%B8%B0/Notes_210115_173546_1.jpg)
 
