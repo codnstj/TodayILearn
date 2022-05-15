@@ -30,9 +30,26 @@ hello = 1.234
 각 위치의 지정자에는 콜론 뒤에 형식 지정자를 붙여 넣어 문자열에 값을 넣을 때 어떤 형식으로 변환할지 정할수 있다.(모든 형식 지정자에 대한 정보를 보고 싶으면 help('FORMATTING') 참고)
 
 ```python
-formatted = '{:<10} = {:.2f}'.format(key,value)
+formatted = '{:<10} 앞에서 부터 열칸 ,  {:.2f} = format(value,".2f")'.format(key,value)
 print(formatted)
 
 >>>
-hello   =1.23
+hello     , 1,23 = format(value,".2f")
 ```
+
+C 스타일에서 % 를 사용하고 싶으면 -> %%
+
+str.format 에서 {} 를 사용하고 싶으면 -> {{}}
+
+format 메서드 에 전달된 인자의 순서를 정할수 있다.
+
+format 에 넘기는 인자의 값을 바꾸지 않아도 형식화 문자열을 통해 출력 순서를 바꿀수 있다.
+```python
+formatted  = '{1} = {0}'.format(key,value)
+print(formatted)
+>>>
+1.23 = hello
+```
+이를 통해 같은 위치의 인덱스를 여러번 사용할수 도 있다.
+
+>**!** 하지만 이를 str.format 을 사용한다해도 딕셔너리보다 작은 따옴표를 덜 쓰고 형식 지정자를 덜쓰는것 빼고는 코드의 가독성 문제가 완전히 해결되지 않으므로 `interpolation 문자열` 을 사용하자.(f-문자열 이라고도 부름)
