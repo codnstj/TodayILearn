@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_65 TILs and counting..._
+_66 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [str formatting - f-문자열 interformation](Effective_Python/cstylestr_formatting.md) - Sun May 15 15:06:52 2022 +0900
 - [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md) - Sat May 14 01:03:53 2022 +0900
-- [운영체제의 정의 와 구조](OS_concepts/concepts.md) - Sat May 14 01:00:21 2022 +0900
 
 ### Categories
 
@@ -52,6 +52,7 @@ _65 TILs and counting..._
 ### [Effective_Python](#Effective_Python)
 - [Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
 - [PEP 8 스타일 가이드를 따르자 !](Effective_Python/Pep8Style.md)
+- [str formatting - f-문자열 interformation](Effective_Python/cstylestr_formatting.md)
 
 ### [JS](#JS)
 - [Closure](JS/closure.md)
