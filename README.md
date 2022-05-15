@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_67 TILs and counting..._
+_68 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [interpolation 을 통한 형식 문자열](Effective_Python/interpolation_string.md) - Sun May 15 19:30:40 2022 +0900
 - [내장함수 format 과 str.format](Effective_Python/str_format.md) - Sun May 15 17:36:45 2022 +0900
-- [C-Style Formatting](Effective_Python/cstylestr_formatting.md) - Sun May 15 15:06:52 2022 +0900
 
 ### Categories
 
@@ -53,6 +53,7 @@ _67 TILs and counting..._
 - [Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
 - [PEP 8 스타일 가이드를 따르자 !](Effective_Python/Pep8Style.md)
 - [C-Style Formatting](Effective_Python/cstylestr_formatting.md)
+- [interpolation 을 통한 형식 문자열](Effective_Python/interpolation_string.md)
 - [내장함수 format 과 str.format](Effective_Python/str_format.md)
 
 ### [JS](#JS)
