@@ -1,4 +1,4 @@
-# str formatting - f-문자열 interformation
+# C-Style Formatting
 
 ## Formating 이란?
 - Formatting 이란 미리 정의 된 문자열에 데이터 값을 끼워 넣어서 사람이 보기 좋은 문자열로 저장 하는 과정이다. 
