@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_69 TILs and counting..._
+_70 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [unpacking 을 통한 대입](Effective_Python/unpacking.md) - Thu May 19 22:49:05 2022 +0900
 - [복잡한 식을 쓰는 대신에 도우미 함수를 작성하라](Effective_Python/str_helper_function.md) - Mon May 16 23:24:00 2022 +0900
-- [interpolation 을 통한 형식 문자열](Effective_Python/interpolation_string.md) - Sun May 15 19:30:40 2022 +0900
 
 ### Categories
 
@@ -56,6 +56,7 @@ _69 TILs and counting..._
 - [interpolation 을 통한 형식 문자열](Effective_Python/interpolation_string.md)
 - [내장함수 format 과 str.format](Effective_Python/str_format.md)
 - [복잡한 식을 쓰는 대신에 도우미 함수를 작성하라](Effective_Python/str_helper_function.md)
+- [unpacking 을 통한 대입](Effective_Python/unpacking.md)
 
 ### [JS](#JS)
 - [Closure](JS/closure.md)
