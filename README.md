@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_70 TILs and counting..._
+_71 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [range 보다는 enumrate 를 사용하라 # 1](Effective_Python/enumrate.md) - Tue May 24 16:18:27 2022 +0900
 - [unpacking 을 통한 대입](Effective_Python/unpacking.md) - Thu May 19 22:49:05 2022 +0900
-- [복잡한 식을 쓰는 대신에 도우미 함수를 작성하라](Effective_Python/str_helper_function.md) - Mon May 16 23:24:00 2022 +0900
 
 ### Categories
 
@@ -53,6 +53,7 @@ _70 TILs and counting..._
 - [Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
 - [PEP 8 스타일 가이드를 따르자 !](Effective_Python/Pep8Style.md)
 - [C-Style Formatting](Effective_Python/cstylestr_formatting.md)
+- [range 보다는 enumrate 를 사용하라 # 1](Effective_Python/enumrate.md)
 - [interpolation 을 통한 형식 문자열](Effective_Python/interpolation_string.md)
 - [내장함수 format 과 str.format](Effective_Python/str_format.md)
 - [복잡한 식을 쓰는 대신에 도우미 함수를 작성하라](Effective_Python/str_helper_function.md)
