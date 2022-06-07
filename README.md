@@ -11,7 +11,7 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_71 TILs and counting..._
+_72 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _71 TILs and counting..._
 - [MakrDown](#MakrDown)
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
+- [Python](#Python)
 
 ### [Aws](#Aws)
 - [Aws 서비스 타입](Aws/Aws-AvailableZone.md)
@@ -114,6 +115,9 @@ _71 TILs and counting..._
 ### [OS_concepts](#OS_concepts)
 - [Process](OS_concepts/Process.md)
 - [운영체제의 정의 와 구조](OS_concepts/concepts.md)
+
+### [Python](#Python)
+- [매개변수](Python/parameter.md)
 
 > 2020 12/22 부터 시작함.
 
