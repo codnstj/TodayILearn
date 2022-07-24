@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_72 TILs and counting..._
+_73 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [19살의 2022년 8개월간의 회고](Velog/EndedLife.md) - Mon Jul 25 02:46:44 2022 +0900
 - [range 보다는 enumrate 를 사용하라 # 1](Effective_Python/enumrate.md) - Tue May 24 16:18:27 2022 +0900
-- [unpacking 을 통한 대입](Effective_Python/unpacking.md) - Thu May 19 22:49:05 2022 +0900
 
 ### Categories
 
@@ -30,6 +30,7 @@ _72 TILs and counting..._
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
 - [Python](#Python)
+- [Velog](#Velog)
 
 ### [Aws](#Aws)
 - [Aws 서비스 타입](Aws/Aws-AvailableZone.md)
@@ -118,6 +119,9 @@ _72 TILs and counting..._
 
 ### [Python](#Python)
 - [매개변수](Python/parameter.md)
+
+### [Velog](#Velog)
+- [19살의 2022년 8개월간의 회고](Velog/EndedLife.md)
 
 > 2020 12/22 부터 시작함.
 
