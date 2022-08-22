@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_74 TILs and counting..._
+_75 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md) - Sun Aug 21 23:45:56 2022 +0900
 - [19살의 2022년 8개월간의 회고](Velog/EndedLife.md) - Mon Jul 25 02:46:44 2022 +0900
-- [range 보다는 enumrate 를 사용하라 # 1](Effective_Python/enumrate.md) - Tue May 24 16:18:27 2022 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _74 TILs and counting..._
 - [Docker](#Docker)
 - [Effective_Python](#Effective_Python)
 - [JS](#JS)
+- [Kube](#Kube)
 - [MakrDown](#MakrDown)
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
@@ -67,6 +68,9 @@ _74 TILs and counting..._
 
 ### [JS](#JS)
 - [Closure](JS/closure.md)
+
+### [Kube](#Kube)
+- [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md)
 
 ### [MakrDown](#MakrDown)
 - [Markdown Learn](MakrDown/MD-Learn.md)
