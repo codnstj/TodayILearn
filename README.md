@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_75 TILs and counting..._
+_76 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Kube Interview](Kube/Kube-interview.md) - Wed Sep 21 23:06:50 2022 +0900
 - [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md) - Sun Aug 21 23:45:56 2022 +0900
-- [19살의 2022년 8개월간의 회고](Velog/EndedLife.md) - Mon Jul 25 02:46:44 2022 +0900
 
 ### Categories
 
@@ -70,6 +70,7 @@ _75 TILs and counting..._
 - [Closure](JS/closure.md)
 
 ### [Kube](#Kube)
+- [Kube Interview](Kube/Kube-interview.md)
 - [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md)
 
 ### [MakrDown](#MakrDown)
