@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_76 TILs and counting..._
+_77 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [transit gateway](Aws/transitgw.md) - Fri Nov 11 11:34:58 2022 +0900
 - [Kube Interview](Kube/Kube-interview.md) - Wed Sep 21 23:06:50 2022 +0900
-- [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md) - Sun Aug 21 23:45:56 2022 +0900
 
 ### Categories
 
@@ -49,6 +49,7 @@ _76 TILs and counting..._
 - [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
 - [test 문제](Aws/test.md)
+- [transit gateway](Aws/transitgw.md)
 
 ### [Django](#Django)
 - [MVC 패턴이란?](Django/MVC-MVT.md)
