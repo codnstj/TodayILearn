@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_77 TILs and counting..._
+_78 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [CloudFront](Aws/cf.md) - Tue Nov 15 13:06:02 2022 +0900
 - [transit gateway](Aws/transitgw.md) - Fri Nov 11 11:34:58 2022 +0900
-- [Kube Interview](Kube/Kube-interview.md) - Wed Sep 21 23:06:50 2022 +0900
 
 ### Categories
 
@@ -48,6 +48,7 @@ _77 TILs and counting..._
 - [L7-Load-Balancing](Aws/L7-LoadBalancer.md)
 - [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
+- [CloudFront](Aws/cf.md)
 - [test 문제](Aws/test.md)
 - [transit gateway](Aws/transitgw.md)
 
