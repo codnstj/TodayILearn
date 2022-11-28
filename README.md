@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_78 TILs and counting..._
+_79 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Security 관련 문제 풀이](SAA/Sec.md) - Mon Nov 28 16:43:39 2022 +0900
 - [CloudFront](Aws/cf.md) - Tue Nov 15 13:06:02 2022 +0900
-- [transit gateway](Aws/transitgw.md) - Fri Nov 11 11:34:58 2022 +0900
 
 ### Categories
 
@@ -32,6 +32,7 @@ _78 TILs and counting..._
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
 - [Python](#Python)
+- [SAA](#SAA)
 - [Velog](#Velog)
 
 ### [Aws](#Aws)
@@ -130,6 +131,9 @@ _78 TILs and counting..._
 
 ### [Python](#Python)
 - [매개변수](Python/parameter.md)
+
+### [SAA](#SAA)
+- [Security 관련 문제 풀이](SAA/Sec.md)
 
 ### [Velog](#Velog)
 - [19살의 2022년 8개월간의 회고](Velog/EndedLife.md)
