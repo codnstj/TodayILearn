@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_79 TILs and counting..._
+_80 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Storage 관련 문제 풀이](SAA/Stor.md) - Mon Nov 28 16:53:42 2022 +0900
 - [Security 관련 문제 풀이](SAA/Sec.md) - Mon Nov 28 16:43:39 2022 +0900
-- [CloudFront](Aws/cf.md) - Tue Nov 15 13:06:02 2022 +0900
 
 ### Categories
 
@@ -134,6 +134,7 @@ _79 TILs and counting..._
 
 ### [SAA](#SAA)
 - [Security 관련 문제 풀이](SAA/Sec.md)
+- [Storage 관련 문제 풀이](SAA/Stor.md)
 
 ### [Velog](#Velog)
 - [19살의 2022년 8개월간의 회고](Velog/EndedLife.md)
