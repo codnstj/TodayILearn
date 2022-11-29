@@ -3,7 +3,6 @@
 - Co-Location 에서 S3 로 이동 -> SnowBall 사용
 - S3 에서 다른 S3 로의 데이터 이동 -> S3 교차리전 구성
 - 정적 콘텐츠의 제공 부분의 대한 성능개선 -> Cloud Front
-- TCP,UDP 기반 광범위한 어플리케이션의 성능개선 -> Global Accelerate
 - RDS Single AZ 에서 Multi AZ 로 변경할땐 실시간으로 변경이 가능하여 다운타임이 줄어듬
 - S3 Standard -> 3개의 가용영역에 저장 (자주 엑세스 하는 파일)
 - S3 Standard IA -> 3개의 가용영역에 저장 (자주 엑세스 하지 않는 파일)
@@ -15,4 +14,10 @@
 - 데이터 베이스 저장용 스토리지 서비스 -> Instance Store, EBS
 - EBS 는 공유 개념이 아니기 때문에 자료를 공유해야하는 상황이라면, EFS 를 사용해서 공유 함.
 - 버킷 공유시 가장 적은노력이 드는것 -> 교차 계정 엑세스 허용
-- 
+- RDS 는 일부 관리형 데이터베이스 <-> Aurora 는 완전 관리형 데이터베이스
+- 실시간으로 많은 양의 데이터를 공유하기 위한 확장 가능한 솔루션 -> Kinesis Data Streams + 트랜잭션 데이터를 처리하기 위해 Lambda 또한 사용
+- 실시간으로 많은 양의 데이터를 AWS 데이터 스토어에 로드 -> Kinesis Data Firehose
+- 무한한 확장성 및 완전 관리형 데이터베이스 -> Dynamo DB
+- MySQL 및 PostgreSQL 과 호환되며, Async 방식의 replcation 이라 성능좋고, 최소 6개의 데이터를 복제하고 있음 
+- 리전 마다 데이터베이스 에 접근하는 속도의 대한 성능을 개선해야한다면 멀티리전을 해당 데이터 베이스에서 지원해야하며, 이를 지원하는 AWS 데이터베이스는 Aurora 데이터 베이스 이다.
+- Dynamo DB 는 NOSQL 데이터베이스
