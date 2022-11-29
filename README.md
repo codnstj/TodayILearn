@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_81 TILs and counting..._
+_82 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Network 관련 문제 풀이](SAA/Net.md) - Mon Nov 28 17:55:54 2022 +0900
 - [Compute 관련 문제 풀이](SAA/Com.md) - Mon Nov 28 17:13:04 2022 +0900
-- [Storage 관련 문제 풀이](SAA/Stor.md) - Mon Nov 28 16:53:42 2022 +0900
 
 ### Categories
 
@@ -134,6 +134,7 @@ _81 TILs and counting..._
 
 ### [SAA](#SAA)
 - [Compute 관련 문제 풀이](SAA/Com.md)
+- [Network 관련 문제 풀이](SAA/Net.md)
 - [Security 관련 문제 풀이](SAA/Sec.md)
 - [Storage 관련 문제 풀이](SAA/Stor.md)
 
