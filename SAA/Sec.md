@@ -11,4 +11,4 @@
 - 3티어 -> Multi AZ WEB SERVER,Multi AZ WAS, Multi AZ RDS
 - 2티어 -> Single AZ WEB SERVER, Single AZ WAS, Multi AZ RDS
 - 3티어 + SQS 구성에서 지연시간 감소하려면 -> SQS 에서 WAS  가는 부분에서 병목이 일어남, 그렇기 떄문에 WAS 의 대한 EC2 Auto Scailing 이 적용되어야 한다.
--  
+-  키사용 기간 측정 -> AWS Config
