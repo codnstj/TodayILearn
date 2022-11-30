@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_82 TILs and counting..._
+_85 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Network 관련 문제 풀이](SAA/Net.md) - Mon Nov 28 17:55:54 2022 +0900
-- [Compute 관련 문제 풀이](SAA/Com.md) - Mon Nov 28 17:13:04 2022 +0900
+- [Shield Immersion Day](Aws/Shield-Immersion.md) - Wed Nov 30 16:08:29 2022 +0900
+- [Edge Immersion Day](Aws/Edge-ImmersionDay.md) - Wed Nov 30 16:08:29 2022 +0900
 
 ### Categories
 
@@ -44,10 +44,13 @@ _82 TILs and counting..._
 - [CICD 관련 계획](Aws/CICD_Build.md)
 - [도메인 주도 설계](Aws/DDD.md)
 - [Installing Docker in EC2](Aws/EC2-DockerInstall.md)
+- [Edge Immersion Day](Aws/Edge-ImmersionDay.md)
 - [GitOps 란?](Aws/GitOps.md)
 - [L4 로드밸런싱](Aws/L4-LoadBalancer.md)
 - [L7-Load-Balancing](Aws/L7-LoadBalancer.md)
+- [Shield Immersion Day](Aws/Shield-Immersion.md)
 - [맥에서 도커를 사용해서 오라클을 사용해보자](Aws/UsingOracle.md)
+- [WAF Immersion Day](Aws/WAF-ImmersionDay.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
 - [CloudFront](Aws/cf.md)
 - [test 문제](Aws/test.md)
