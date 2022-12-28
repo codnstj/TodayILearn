@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_85 TILs and counting..._
+_86 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md) - Wed Dec 28 14:02:31 2022 +0900
 - [Shield Immersion Day](Aws/Shield-Immersion.md) - Wed Nov 30 16:08:29 2022 +0900
-- [Edge Immersion Day](Aws/Edge-ImmersionDay.md) - Wed Nov 30 16:08:29 2022 +0900
 
 ### Categories
 
@@ -42,6 +42,7 @@ _85 TILs and counting..._
 - [Aws 와 Docker 의 필요성](Aws/Aws_Docker.md)
 - [CI 란?](Aws/CI-CD.md)
 - [CICD 관련 계획](Aws/CICD_Build.md)
+- [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md)
 - [도메인 주도 설계](Aws/DDD.md)
 - [Installing Docker in EC2](Aws/EC2-DockerInstall.md)
 - [Edge Immersion Day](Aws/Edge-ImmersionDay.md)
