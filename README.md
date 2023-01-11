@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_86 TILs and counting..._
+_87 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [암호화된 EBS 사용](Aws/Encrypted_EBS_Use.md) - Wed Jan 11 16:54:00 2023 +0900
 - [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md) - Wed Dec 28 14:02:31 2022 +0900
-- [Shield Immersion Day](Aws/Shield-Immersion.md) - Wed Nov 30 16:08:29 2022 +0900
 
 ### Categories
 
@@ -46,6 +46,7 @@ _86 TILs and counting..._
 - [도메인 주도 설계](Aws/DDD.md)
 - [Installing Docker in EC2](Aws/EC2-DockerInstall.md)
 - [Edge Immersion Day](Aws/Edge-ImmersionDay.md)
+- [암호화된 EBS 사용](Aws/Encrypted_EBS_Use.md)
 - [GitOps 란?](Aws/GitOps.md)
 - [L4 로드밸런싱](Aws/L4-LoadBalancer.md)
 - [L7-Load-Balancing](Aws/L7-LoadBalancer.md)
