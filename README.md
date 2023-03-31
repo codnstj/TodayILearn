@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [DI (Dependency Injection - 의존성 주입)](Spring/DI.md) - Fri Mar 31 09:45:32 2023 +0900
 - [CF 몰랐던점 정리](Aws/CF-Ticket-study.md) - Thu Jan 12 15:13:08 2023 +0900
-- [암호화된 EBS 사용](Aws/Encrypted_EBS_Use.md) - Wed Jan 11 16:54:00 2023 +0900
 
 ### Categories
 
@@ -33,6 +33,7 @@ _88 TILs and counting..._
 - [OS_concepts](#OS_concepts)
 - [Python](#Python)
 - [SAA](#SAA)
+- [Spring](#Spring)
 - [Velog](#Velog)
 
 ### [Aws](#Aws)
@@ -143,6 +144,9 @@ _88 TILs and counting..._
 - [Network 관련 문제 풀이](SAA/Net.md)
 - [Security 관련 문제 풀이](SAA/Sec.md)
 - [Storage 관련 문제 풀이](SAA/Stor.md)
+
+### [Spring](#Spring)
+- [DI (Dependency Injection - 의존성 주입)](Spring/DI.md)
 
 ### [Velog](#Velog)
 - [19살의 2022년 8개월간의 회고](Velog/EndedLife.md)
