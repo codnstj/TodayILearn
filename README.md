@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_87 TILs and counting..._
+_88 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [CF 몰랐던점 정리](Aws/CF-Ticket-study.md) - Thu Jan 12 15:13:08 2023 +0900
 - [암호화된 EBS 사용](Aws/Encrypted_EBS_Use.md) - Wed Jan 11 16:54:00 2023 +0900
-- [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md) - Wed Dec 28 14:02:31 2022 +0900
 
 ### Categories
 
@@ -40,6 +40,7 @@ _87 TILs and counting..._
 - [Amazone EC2 인스턴스 유형](Aws/Aws-Ec2_instance_Type.md)
 - [AWS 서비스 정리](Aws/AwsUniv.md)
 - [Aws 와 Docker 의 필요성](Aws/Aws_Docker.md)
+- [CF 몰랐던점 정리](Aws/CF-Ticket-study.md)
 - [CI 란?](Aws/CI-CD.md)
 - [CICD 관련 계획](Aws/CICD_Build.md)
 - [AWS 아키텍쳐 구축 유의사항](Aws/Construct_Architecture.md)
