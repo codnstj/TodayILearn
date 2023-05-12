@@ -11,24 +11,22 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_92 TILs and counting..._
+_91 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [DI (Dependency Injection - 의존성 주입)](Spring/DI.md) - Fri Mar 31 09:45:32 2023 +0900
-- [CF 몰랐던점 정리](Aws/CF-Ticket-study.md) - Thu Jan 12 15:13:08 2023 +0900
+- [What is Docker](Container/What-Docker.md) - Fri May 12 10:57:55 2023 +0900
+- [EC2 예약된 유지관리 이벤트](Aws/Aws_reserved_event.md) - Fri May 12 10:57:49 2023 +0900
 
 ### Categories
 
 - [Aws](#Aws)
 - [Container](#Container)
 - [Django](#Django)
-- [Docker](#Docker)
 - [Effective_Python](#Effective_Python)
 - [JS](#JS)
-- [Kube](#Kube)
 - [MakrDown](#MakrDown)
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
@@ -42,6 +40,7 @@ _92 TILs and counting..._
 - [Amazone EC2 인스턴스 유형](Aws/Aws-Ec2_instance_Type.md)
 - [AWS 서비스 정리](Aws/AwsUniv.md)
 - [Aws 와 Docker 의 필요성](Aws/Aws_Docker.md)
+- [EC2 예약된 유지관리 이벤트](Aws/Aws_reserved_event.md)
 - [CF 몰랐던점 정리](Aws/CF-Ticket-study.md)
 - [CI 란?](Aws/CI-CD.md)
 - [CICD 관련 계획](Aws/CICD_Build.md)
@@ -64,13 +63,11 @@ _92 TILs and counting..._
 ### [Container](#Container)
 - [Dockerfile 기본 명령어](Container/Dockerfile-syntax.md)
 - [Kube Interview](Container/Kube-interview.md)
+- [What is Docker](Container/What-Docker.md)
 - [쿠버네티스 를 왜 써야할까](Container/Why-Kube.md)
 
 ### [Django](#Django)
 - [MVC 패턴이란?](Django/MVC-MVT.md)
-
-### [Docker](#Docker)
-- [Dockerfile 기본 명령어](Docker/Dockerfile-syntax.md)
 
 ### [Effective_Python](#Effective_Python)
 - [Bytes 와 Str 의 차이를 알아두자.](Effective_Python/Byte_STR.md)
@@ -84,10 +81,6 @@ _92 TILs and counting..._
 
 ### [JS](#JS)
 - [Closure](JS/closure.md)
-
-### [Kube](#Kube)
-- [Kube Interview](Kube/Kube-interview.md)
-- [쿠버네티스 를 왜 써야할까](Kube/Why-Kube.md)
 
 ### [MakrDown](#MakrDown)
 - [Markdown Learn](MakrDown/MD-Learn.md)
