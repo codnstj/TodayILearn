@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_91 TILs and counting..._
+_92 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [영우정님 CKA 강의 - 실습 정리할것들.](Container/CKA_YWJ.md) - Wed May 17 13:44:35 2023 +0900
 - [What is Docker](Container/What-Docker.md) - Fri May 12 10:57:55 2023 +0900
-- [EC2 예약된 유지관리 이벤트](Aws/Aws_reserved_event.md) - Fri May 12 10:57:49 2023 +0900
 
 ### Categories
 
@@ -61,6 +61,7 @@ _91 TILs and counting..._
 - [transit gateway](Aws/transitgw.md)
 
 ### [Container](#Container)
+- [영우정님 CKA 강의 - 실습 정리할것들.](Container/CKA_YWJ.md)
 - [Dockerfile 기본 명령어](Container/Dockerfile-syntax.md)
 - [Kube Interview](Container/Kube-interview.md)
 - [What is Docker](Container/What-Docker.md)
