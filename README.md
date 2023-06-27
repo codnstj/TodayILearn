@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_88 TILs and counting..._
+_93 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [영우정님 CKA 강의 - 실습 정리할것들.](Container/CKA_YWJ.md) - Wed May 17 13:44:35 2023 +0900
-- [What is Docker](Container/What-Docker.md) - Fri May 12 10:57:55 2023 +0900
+- [Security 관련 문제 풀이](SAA/Sec.md) - Tue Jun 27 15:06:02 2023 +0900
+- [Network 관련 문제 풀이](SAA/Net.md) - Tue Jun 27 15:06:02 2023 +0900
 
 ### Categories
 
@@ -31,6 +31,8 @@ _88 TILs and counting..._
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
 - [Python](#Python)
+- [SAA](#SAA)
+- [SAP](#SAP)
 - [Spring](#Spring)
 - [Velog](#Velog)
 
@@ -137,6 +139,15 @@ _88 TILs and counting..._
 
 ### [Python](#Python)
 - [매개변수](Python/parameter.md)
+
+### [SAA](#SAA)
+- [Compute 관련 문제 풀이](SAA/Com.md)
+- [Network 관련 문제 풀이](SAA/Net.md)
+- [Security 관련 문제 풀이](SAA/Sec.md)
+- [Storage 관련 문제 풀이](SAA/Stor.md)
+
+### [SAP](#SAP)
+- [SAP 공부](SAP/1-to-20.md)
 
 ### [Spring](#Spring)
 - [DI (Dependency Injection - 의존성 주입)](Spring/DI.md)
