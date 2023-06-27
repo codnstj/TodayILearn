@@ -11,7 +11,7 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_92 TILs and counting..._
+_88 TILs and counting..._
 
 ---
 
@@ -31,7 +31,6 @@ _92 TILs and counting..._
 - [NetworkLearn](#NetworkLearn)
 - [OS_concepts](#OS_concepts)
 - [Python](#Python)
-- [SAA](#SAA)
 - [Spring](#Spring)
 - [Velog](#Velog)
 
@@ -138,12 +137,6 @@ _92 TILs and counting..._
 
 ### [Python](#Python)
 - [매개변수](Python/parameter.md)
-
-### [SAA](#SAA)
-- [Compute 관련 문제 풀이](SAA/Com.md)
-- [Network 관련 문제 풀이](SAA/Net.md)
-- [Security 관련 문제 풀이](SAA/Sec.md)
-- [Storage 관련 문제 풀이](SAA/Stor.md)
 
 ### [Spring](#Spring)
 - [DI (Dependency Injection - 의존성 주입)](Spring/DI.md)
