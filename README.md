@@ -147,7 +147,7 @@ _93 TILs and counting..._
 - [Storage 관련 문제 풀이](SAA/Stor.md)
 
 ### [SAP](#SAP)
-- [SAP 공부](SAP/1-to-20.md)
+- [SAP-C03 문답 - 1](SAP/1-to-20.md)
 
 ### [Spring](#Spring)
 - [DI (Dependency Injection - 의존성 주입)](Spring/DI.md)
