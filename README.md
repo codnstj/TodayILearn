@@ -11,14 +11,14 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_95 TILs and counting..._
+_96 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [P99 Latency](Aws/CW_P99_latency.md) - Thu Jun 29 15:22:08 2023 +0900
-- [Storage 관련 문제 풀이](SAA/Stor.md) - Tue Jun 27 15:06:02 2023 +0900
+- [AWS 서비스 정리](Aws/Aws-Services.md) - Thu Sep 21 13:29:33 2023 +0900
+- [Site to Site VPN](Aws/sts-vpn.md) - Thu Sep 21 13:29:33 2023 +0900
 
 ### Categories
 
@@ -39,7 +39,7 @@ _95 TILs and counting..._
 ### [Aws](#Aws)
 - [Aws 서비스 타입](Aws/Aws-AvailableZone.md)
 - [Amazone EC2 인스턴스 유형](Aws/Aws-Ec2_instance_Type.md)
-- [AWS 서비스 정리](Aws/AwsUniv.md)
+- [AWS 서비스 정리](Aws/Aws-Services.md)
 - [Aws 와 Docker 의 필요성](Aws/Aws_Docker.md)
 - [EC2 예약된 유지관리 이벤트](Aws/Aws_reserved_event.md)
 - [CF 몰랐던점 정리](Aws/CF-Ticket-study.md)
@@ -59,6 +59,7 @@ _95 TILs and counting..._
 - [WAF Immersion Day](Aws/WAF-ImmersionDay.md)
 - [SDK(소프트웨어 개발 키트, Software Development Kit)란?](Aws/WhatSDK.md)
 - [CloudFront](Aws/cf.md)
+- [Site to Site VPN](Aws/sts-vpn.md)
 - [test 문제](Aws/test.md)
 - [transit gateway](Aws/transitgw.md)
 
