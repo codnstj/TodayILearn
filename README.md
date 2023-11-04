@@ -11,7 +11,7 @@
 > 4.  **열심히 매우 열심히 한다.!**
 
 
-_96 TILs and counting..._
+_98 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _96 TILs and counting..._
 - [Edge Immersion Day](Aws/Edge-ImmersionDay.md)
 - [암호화된 EBS 사용](Aws/Encrypted_EBS_Use.md)
 - [GitOps 란?](Aws/GitOps.md)
+- [ALB를 사용하다보면 많은 트러블 슈팅 상황에 직면하는 상황이 발생한다.](Aws/HTTP xxx error rate vs ELB xxx error rate.md)
 - [L4 로드밸런싱](Aws/L4-LoadBalancer.md)
 - [L7-Load-Balancing](Aws/L7-LoadBalancer.md)
 - [Shield Immersion Day](Aws/Shield-Immersion.md)
@@ -66,6 +67,7 @@ _96 TILs and counting..._
 ### [Container](#Container)
 - [영우정님 CKA 강의 - 실습 정리할것들.](Container/CKA_YWJ.md)
 - [Dockerfile 기본 명령어](Container/Dockerfile-syntax.md)
+- [Persistant Volume, Persistant Volume Claim](Container/Kube-PV&PVC.md)
 - [Kube Interview](Container/Kube-interview.md)
 - [What is Docker](Container/What-Docker.md)
 - [쿠버네티스 를 왜 써야할까](Container/Why-Kube.md)
