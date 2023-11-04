@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "2ec8e691bf9445f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f1fcaef5d5e224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be1fede7e56f8542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aws/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ebe9a5ba1f077e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Aws/devops_architecture.drawio.png"
+              }
+            }
+          },
+          {
+            "id": "13cb1734e216ae77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aws/HTTP xxx error rate vs ELB xxx error rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51cb42838b8a5d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a40cde5417e95a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a99d395f6d7ee30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662c9521c41d984b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fba83acab3a1b766",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcbe1a534a904c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfe893721cbd60e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515c857c95a0a004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aws/HTTP xxx error rate vs ELB xxx error rate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "670cdb1a33d7fc38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aws/HTTP xxx error rate vs ELB xxx error rate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32cc4772ed708e87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf5b9a9fe2a02b7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aws/HTTP xxx error rate vs ELB xxx error rate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "13cb1734e216ae77",
+  "lastOpenFiles": [
+    "img/test.png",
+    "Aws/HTTP xxx error rate vs ELB xxx error rate.md",
+    "img",
+    "Aws/WAF-ImmersionDay.md",
+    "README.md",
+    "Aws/Encrypted_EBS_Use.md",
+    "Pasted image 20231005095515.png",
+    "Pasted image 20231005095147.png",
+    "Aws/L4-LoadBalancer.md",
+    "Aws/UsingOracle.md",
+    "Aws/WhatSDK.md",
+    "Aws/GitOps.md",
+    "Aws/DDD.md",
+    "Aws/CW_P99_latency.md",
+    "Aws/CICD_Build.md",
+    "Aws/CI-CD.md",
+    "Aws/transitgw.md",
+    "Aws/sts-vpn.md",
+    "Aws/Shield-Immersion.md",
+    "Aws/L7-LoadBalancer.md",
+    "Aws/cf.md",
+    "Aws/Edge-ImmersionDay.md",
+    "Aws/EC2-DockerInstall.md",
+    "Aws/CF-Ticket-study.md",
+    "Aws/Aws_reserved_event.md",
+    "Aws/Aws_Docker.md",
+    "Aws/Aws-Ec2_instance_Type.md",
+    "Aws/Aws-AvailableZone.md",
+    "Aws/test.md",
+    "Aws/devops_architecture.drawio.png",
+    "images/4.png",
+    "images/PathcostsCalc.jpg",
+    "images/screenshot.jpg",
+    "images/Netwokimg.jpeg",
+    "images/d.png",
+    "images/a (1).png"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
