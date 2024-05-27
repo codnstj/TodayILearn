@@ -6,7 +6,7 @@ description: VPC 생성 및 VPC 간 피어링 연결 실습 자료 입니다.
 
 ### 최종 구성도
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>피어링 실습 최종 구성도</p></figcaption></figure>
 
 ### 목차
 
@@ -14,8 +14,8 @@ description: VPC 생성 및 VPC 간 피어링 연결 실습 자료 입니다.
 [1.-create-vpc-and-subnets.md](1.-create-vpc-and-subnets.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.-create-additional-subnets.md" %}
-[2.-create-additional-subnets.md](2.-create-additional-subnets.md)
+{% content-ref url="2.-create-peering-vpc.md" %}
+[2.-create-peering-vpc.md](2.-create-peering-vpc.md)
 {% endcontent-ref %}
 
 {% content-ref url="3.-create-peering-connection.md" %}
