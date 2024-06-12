@@ -83,5 +83,10 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 선택한 키페어의 확장자에  따라 ( pem , ppk ) 접속 방법이 달라지기 때문에, 다음 항목의 문서를 참고 하여 테스트 진행 해주시면 될 것 같습니다.
 
+### EC2 인스턴스 생성 2
 
+&#x20;생성한 2개의 VPC 끼리 통신이 가능한지 확인하기 위해, Peering VPC 내에도 인스턴스를 생성해보도록 하겠습니다. 기존 방법과 동일하지만, 네트워크 구성만 아래 표를 참고하여 생성 해주시면 감사하겠습니다.
 
+<table><thead><tr><th width="182">이름</th><th>값</th></tr></thead><tbody><tr><td>VPC </td><td>VPC-Peer</td></tr><tr><td>서브넷</td><td>Peer Private Subnet A</td></tr><tr><td>퍼블릭 IP 자동 할당</td><td>비 활성화</td></tr><tr><td>보안그룹</td><td>보안그룹 생성을 선택하고, ICMP 프로토콜에 대해서, 모든 범위를 허용하도록 규칙을 구성합니다.</td></tr><tr><td>보안그룹 이름</td><td>VPC-Peer EC2 Secuirty Group ( 자유롭게 지정하셔도 됩니다 )</td></tr></tbody></table>
+
+해당 인스턴스에는 접속 하지 않을 예정이기 때문에, 키페어는 구성 하지 않아도 됩니다.
