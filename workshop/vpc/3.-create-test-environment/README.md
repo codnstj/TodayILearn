@@ -1,12 +1,12 @@
 ---
-description: 생성한 VPC 내 테스트 환경을 구성하여 Peering 구성을 안한 상태로 통신이 가능한지 확인 해보도록 하겠습니다.
+description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 ---
 
 # 3. Create Test Environment
 
 각 VPC 내 서브넷에, 테스트 환경을 구성 해 보겠습니다. 이번 단계의 구성 목표는 아래 이미지와 같습니다.
 
-먼저 처음 생성하였던 VPC(VPC-Lab)의 경우 Internet Gateway를 부착하여 인터넷을 통해 접근 할 수 있도록 구성되어있습니다.
+먼저 처음 생성하였던 VPC(VPC-Lab)의 경우 Internet Gateway를 부착하여 인터넷을 통해 접근 할 수 있도록 구성되어있습니다. 이에따라 해당 VPC 에 Ec2 를 생성할 경우 인터넷을 통해 접근이 가능합니다. 이를 확인 해보겠습니다.
 
 ## Ec2 키페어 생성
 
@@ -14,7 +14,15 @@ description: 생성한 VPC 내 테스트 환경을 구성하여 Peering 구성�
 
 [EC2 콘솔에](https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2) 접근한 후, 좌측 카테고리에서 "키페어"를 선택합니다 .
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ec2 키페어 생성</p></figcaption></figure>
+
+키페어 생성 페이지로 접근 한후 이름과 유형 그리고 형식을 선택합니다.
+
+유형의 경우 RSA 로 선택 해주시며, 키페어 형식은 Putty 를 사용할 경우엔 ppk 를 선택 하고, 일반적으로 shell 을 통해 ssh 를 접근 할 경우 pem 형식을 선택합니다.
+
+모두 선택 완료 하였다면, 우측 아래 키페어 생성을 클릭하면 브라우저에서 키페어를 생성합니다.
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## EC2 인스턴스 생성
 
