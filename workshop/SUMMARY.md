@@ -3,7 +3,7 @@
 * [General Immersion Day - WorkShop](README.md)
 * [VPC](vpc/README.md)
   * [1. Create VPC & Subnets](vpc/1.-create-vpc-and-subnets.md)
-  * [2. Create Peering VPC](vpc/2.-create-peering-vpc.md)
+  * [2. Create Private VPC](vpc/2.-create-private-vpc.md)
   * [3. Create Test Environment](vpc/3.-create-test-environment/README.md)
     * [3.1 Instance Connection Test (.ppk)](vpc/3.-create-test-environment/3.1-instance-connection-test-.ppk.md)
     * [3.2 Instance Connection Test (.pem)](vpc/3.-create-test-environment/3.2-instance-connection-test-.pem.md)

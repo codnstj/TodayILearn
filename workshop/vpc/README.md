@@ -14,8 +14,8 @@ description: VPC 생성 및 VPC 간 피어링 연결 실습 자료 입니다.
 [1.-create-vpc-and-subnets.md](1.-create-vpc-and-subnets.md)
 {% endcontent-ref %}
 
-{% content-ref url="2.-create-peering-vpc.md" %}
-[2.-create-peering-vpc.md](2.-create-peering-vpc.md)
+{% content-ref url="2.-create-private-vpc.md" %}
+[2.-create-private-vpc.md](2.-create-private-vpc.md)
 {% endcontent-ref %}
 
 {% content-ref url="3.-create-test-environment/" %}
