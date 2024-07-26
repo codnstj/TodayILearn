@@ -14,5 +14,5 @@
   * [2. Add Objects](s3/2.-add-objects.md)
   * [3. Configure static web hosting](s3/3.-configure-static-web-hosting.md)
   * [4.Edit Bucket Policy](s3/4.edit-bucket-policy.md)
-  * [5. Enable Versioning](s3/5.-enable-versioning.md)
-  * [6. Create CloudFront](s3/6.-create-cloudfront.md)
+  * [5. Enable Versioning](s3/4.-enable-versioning.md)
+  * [6. Create CloudFront](s3/5.-create-cloudfront.md)

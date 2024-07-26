@@ -18,10 +18,10 @@ description: S3 정적 웹호스팅 및 CloudFront 연동 실습 자료입니다
 [3.-configure-static-web-hosting.md](3.-configure-static-web-hosting.md)
 {% endcontent-ref %}
 
-{% content-ref url="5.-enable-versioning.md" %}
-[5.-enable-versioning.md](5.-enable-versioning.md)
+{% content-ref url="4.-enable-versioning.md" %}
+[4.-enable-versioning.md](4.-enable-versioning.md)
 {% endcontent-ref %}
 
-{% content-ref url="6.-create-cloudfront.md" %}
-[6.-create-cloudfront.md](6.-create-cloudfront.md)
+{% content-ref url="5.-create-cloudfront.md" %}
+[5.-create-cloudfront.md](5.-create-cloudfront.md)
 {% endcontent-ref %}

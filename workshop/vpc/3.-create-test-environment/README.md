@@ -57,7 +57,7 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>인스턴스 유형 및 키페어 지정</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>인스턴스 유형 및 키페어 지정</p></figcaption></figure>
 
 
 
