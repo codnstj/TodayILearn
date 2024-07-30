@@ -14,7 +14,7 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 [EC2 콘솔에](https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2) 접근한 후, 좌측 카테고리에서 "키페어"를 선택합니다 .
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Ec2 키페어 생성</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Ec2 키페어 생성</p></figcaption></figure>
 
 키페어 생성 페이지로 접근 한후 이름과 유형 그리고 형식을 선택합니다.
 
@@ -32,7 +32,7 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VPC 생성 콘솔 진입</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>VPC 생성 콘솔 진입</p></figcaption></figure>
 
 </div>
 
@@ -49,7 +49,7 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>이름 및 AMI 지</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>이름 및 AMI 지</p></figcaption></figure>
 
 </div>
 
@@ -71,7 +71,7 @@ description: 생성하였던 VPC 끼리 통신이 가능한지 확인합니다.
 
 위 표에 적힌 정보를 모두 선택 및 기입 하였다면 우측 인스턴스 시작 버튼을 눌러 인스턴스를 시작합니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>네트워크 정보 입력 및 인스턴스 생성</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>네트워크 정보 입력 및 인스턴스 생성</p></figcaption></figure>
 
 인스턴스가 정상적으로 생성되기까지 1\~2분 정도 소요 될 수 있습니다.
 

@@ -6,7 +6,7 @@ description: VPC 생성 및 VPC 간 피어링 연결 실습 자료 입니다.
 
 ### 최종 구성도
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>피어링 실습 최종 구성도</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>피어링 실습 최종 구성도</p></figcaption></figure>
 
 ### 목차
 
